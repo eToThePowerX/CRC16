@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1603003359 source:c:\users\soumyak\desktop\crc_16\crc_16\functions.c
+	"functions.h"
+
+1603003375 c:\users\soumyak\desktop\crc_16\crc_16\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1603003367 source:c:\users\soumyak\desktop\crc_16\crc_16\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603004122 source:c:\users\user\dropbox\crc_16\crc_16\functions.c
+	"functions.h"
+
+1603004119 c:\users\user\dropbox\crc_16\crc_16\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1603004116 source:c:\users\user\dropbox\crc_16\crc_16\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1669834270 source:c:\users\user\desktop\crc_16\functions.c
+	"functions.h"
+
+1669834274 c:\users\user\desktop\crc_16\functions.h
+	<stdio.h>
+	<stdlib.h>
+
+1669834424 source:c:\users\user\desktop\crc_16\main.c
+	<stdio.h>
+	<stdlib.h>
+
