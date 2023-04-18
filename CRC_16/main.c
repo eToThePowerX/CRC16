@@ -1,4 +1,3 @@
-//Hellow how are you?
 #include <stdio.h>
 #include <stdlib.h>
 
