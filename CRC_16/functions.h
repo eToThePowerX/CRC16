@@ -2,4 +2,4 @@
 #include <stdlib.h>
 
 unsigned int XOR(unsigned int, unsigned int);
-unsigned int CRC(int, int []);//test from nibedita
+unsigned int CRC(int, int []);
