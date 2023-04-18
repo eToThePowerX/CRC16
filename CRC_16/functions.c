@@ -1,6 +1,6 @@
 #include "functions.h"
 
-unsigned int polynomial = 0xA001;
+unsigned int polynomial = 0xA001; //my changes done here
 
 unsigned int XOR(unsigned int constant, unsigned int data)
 {
